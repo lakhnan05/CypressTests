@@ -1,0 +1,30 @@
+{
+	"Total": {
+		"TotalItemsPage1": 9,
+		"TotalItemsPage2": 6,
+		"TotalPhones": 7,
+		"TotalLaptops": 6,
+		"TotalMonitors": 2
+	},
+	"item1": {
+		"Title": "Samsung galaxy s6",
+		"Price": "$360 *includes tax",
+		"Description": "The Samsung Galaxy S6 is powered by 1.5GHz octa-core Samsung Exynos 7420\n processor and it comes with 3GB of RAM. The phone packs 32GB of \ninternal storage cannot be expanded. ",
+		"Image": "imgs/galaxy_s6.jpg",
+		"path": "/prod.html?idp_=1"
+	},
+	"item8": {
+		"Title": "Sony vaio i5",
+		"Price": "$790 *includes tax",
+		"Description": "Sony is so confident that the VAIO S is a superior ultraportable laptop that the company proudly compares the notebook to Apple's 13-inch MacBook Pro. And in a lot of ways this notebook is better, thanks to a lighter weight.",
+		"Image": "imgs/sony_vaio_5.jpg",
+		"path": "/prod.html?idp_=8"
+	},
+	"item14": {
+		"Title": "ASUS Full HD",
+		"Price": "$230 *includes tax",
+		"Description": "ASUS VS247H-P 23.6- Inch Full HD",
+		"Image": "imgs/asusm.jpg",
+		"path": "/prod.html?idp_=14"
+	}
+}
